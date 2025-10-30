@@ -55,3 +55,8 @@ node app.js
 http://localhost:5000
 ```
 
+## LIVE LINK:
+- Deployed at render
+```bash
+https://bookit-fe.onrender.com/
+```
