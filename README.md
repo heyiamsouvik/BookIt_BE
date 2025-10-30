@@ -60,3 +60,9 @@ http://localhost:5000
 ```bash
 https://bookit-fe.onrender.com/
 ```
+
+## FRONTEND LINK:
+- Uploaded at GitHub
+```bash
+https://github.com/heyiamsouvik/BookIt_FE.git
+```
