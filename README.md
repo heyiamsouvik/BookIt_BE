@@ -22,7 +22,7 @@ This is the backend service for the Travel Booking project. It provides APIs for
 ---
 
 ## Folder Structure
-
+```bash
 backend/
 ┣ src/
 ┃ ┣ controllers/
@@ -34,7 +34,7 @@ backend/
 ┣ .env
 ┣ package.json
 ┗ tsconfig.json
-
+```
 ## Installation
 
 ### 1. Clone repo
@@ -63,7 +63,7 @@ Create a `.env` file in root:
 node app.js
 ```
 
-### 5. Test the endpoints 
+### 5. Test the endpoint
 ```bash
 http://localhost:5173/
 ```
