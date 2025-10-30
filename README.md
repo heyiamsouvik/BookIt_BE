@@ -45,6 +45,7 @@ cd travel-backend
 ### 2. Install dependencies
 ```bash
 npm install
+cd BookIt_BE
 ```
 ### 3. Environment Setup
 ```bash
