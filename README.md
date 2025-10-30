@@ -52,6 +52,6 @@ node app.js
 
 ### 5. Test the endpoint
 ```bash
-http://localhost:5173/
+http://localhost:5000
 ```
 
