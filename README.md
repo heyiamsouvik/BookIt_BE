@@ -21,20 +21,7 @@ This is the backend service for the Travel Booking project. It provides APIs for
 
 ---
 
-## Folder Structure
-```bash
-backend/
-┣ src/
-┃ ┣ controllers/
-┃ ┣ middleware/
-┃ ┣ models/
-┃ ┣ routes/
-┃ ┣ utils/
-┃ ┗ index.ts
-┣ .env
-┣ package.json
-┗ tsconfig.json
-```
+
 ## Installation
 
 ### 1. Clone repo
