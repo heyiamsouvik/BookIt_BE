@@ -40,12 +40,11 @@ backend/
 ### 1. Clone repo
 ```bash
 git clone https://github.com/heyiamsouvik/BookIt_BE.git
-cd travel-backend
+cd BookIt_BE
 ```
 ### 2. Install dependencies
 ```bash
 npm install
-cd BookIt_BE
 ```
 ### 3. Environment Setup
 ```bash
